@@ -11,7 +11,7 @@ Input to the program will be
 • Number of passengers waiting in queue.
 
 
-Input :
+Input Sample 1:
 
 A 2D array that represents the rows and columns
 [ [3,2], [4,3], [2,3], [3,4] ]
@@ -19,10 +19,15 @@ If there were 30 passengers from then the seating output will be …
 
 Output :
 
-19  25   1       2  26  27   3       4   5       6  28  20     
- 21  29   7       8  30   0   9      10  11      12   0  22     
-*** *** ***      13   0   0  14      15  16      17   0  23     
-*** *** ***     *** *** *** ***     *** ***      18   0  24   
+![image](https://user-images.githubusercontent.com/95153553/143732891-eeef991b-8a89-4848-a889-da9dc1477462.png)
+
+Input Sample 2:
+
+A 2D array that represents the rows and columns
+[ [8,2], [10,3], [9,3] ]
+If there were 30 passengers from then the seating output will be …
+
+![image](https://user-images.githubusercontent.com/95153553/143732912-ff2d35e9-226f-4686-88c8-ca18754d46f6.png)
 
 
 0 - represents unfilled seats
