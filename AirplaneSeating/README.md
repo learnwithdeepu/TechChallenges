@@ -19,7 +19,8 @@ If there were 30 passengers from then the seating output will be …
 
 Output :
 
-![image](https://user-images.githubusercontent.com/95153553/143732891-eeef991b-8a89-4848-a889-da9dc1477462.png)
+![image](https://user-images.githubusercontent.com/95153553/143733031-d7ffc36d-846f-4483-9fd9-03289b1cadff.png)
+
 
 Input Sample 2:
 
@@ -30,5 +31,5 @@ If there were 30 passengers from then the seating output will be …
 ![image](https://user-images.githubusercontent.com/95153553/143732912-ff2d35e9-226f-4686-88c8-ca18754d46f6.png)
 
 
-0 - represents unfilled seats
-* - no seats
+"*** represents no seats"
+" 0  represents unfilled seats"
